@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+.container{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    background: rgb(0, 0, 0);
+    background-repeat: repeat;
+
+  
+}
+p{
+   font-size: 5px;
+   line-height: 10px;
+   background: url(kilig\ 2.png);
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(216, 151, 151, 0);
+    text-align: justify;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+
+}
+/* box gradient below */
+/* .box{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 105%;
+    left: 55%;
+    transform: translate(-50%,-50%);
+    border: 4px solid transparent;
+    border-image: linear-gradient(45deg, #ff0, #f0f, #f00, #00f, #0f0);
+    border-image-slice: 1
+} */
+
+/* h2{
+    position: bottom;
+    transform: translateY(-50%);
+    margin: 0;
+    padding: 0;
+    font-size: 5em;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #3d0219 , #be1394 , #2196f3 , #d6b7d4);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-shadow: 0 0 15px rgba(0,0,0,.5);
+} */
+
+
+
+
+
+
+    
+

@@ -1,0 +1,29 @@
+
+/* .container{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+} */
+ .button
+{
+    position: relative;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    padding: 50px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    border: 10px solid white;
+    text-transform: uppercase;
+    letter-spacing: 25px;
+    cursor: pointer;
+    
+    transition: 1.5s;
+
+}
+.button:hover{
+    box-shadow: 0 5px 50px 0 #fff inset,0 5px 50px 0 #fff;
+} 

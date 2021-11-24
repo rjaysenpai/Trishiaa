@@ -1,0 +1,40 @@
+/* .box
+{   
+    margin-top: 20%;
+    margin-right: 40%;
+    position: relative;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    border: 10px solid white;
+    
+} */
+
+ h2 { 
+    color: #fff;
+    font-size: 5em;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-shadow:0 0 10px #00b3ff,
+                0 0 20px #00b3ff,
+                0 0 40px #00b3ff,
+                0 0 80px #00b3ff,
+                0 0 120px #00b3ff;
+    }
+.container{
+    text-align: center;
+}
+h2{
+
+    font-size: 2em; /* size of the text */
+    font-weight: 600;   /* width of the text */
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 10px #00b3ff,
+                    0 0 20px #00b3ff,
+                    0 0 40px #00b3ff,
+                    0 0 80px #00b3ff,
+                    0 0 120px #00b3ff;
+}
